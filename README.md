@@ -46,3 +46,12 @@ The project pipeline includes **data preprocessing, exploratory data analysis (E
 ---
 
 ## 📂 Repository Structure
+
+Air_Quality_Health_Risk_Predictor/\
+│── data/ # Dataset (CSV files)\
+│── notebooks/ # Jupyter notebooks (EDA & Model building)\
+│── models/ # Saved model (air_quality_model.pkl)\
+│── visuals/ # Plots & charts (EDA, feature importance, CM)\
+│── app/ # Streamlit/Flask app (optional)\
+│── README.md # Project description & usage\
+│── requirements.txt # Dependencies\
