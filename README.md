@@ -80,3 +80,9 @@ Air_Quality_Health_Risk_Predictor/\
 <img width="1919" height="1095" alt="Screenshot 2025-09-26 100138" src="https://github.com/user-attachments/assets/586531c7-1d26-4c79-95ea-3473946d862e" />
 
 <img width="1919" height="1098" alt="Screenshot 2025-09-26 100202" src="https://github.com/user-attachments/assets/fdbeed7c-2a9e-497f-939e-0472dfd5bea0" />
+
+## Scan this below QR code to explore the live AQI Predictor Pro web app.
+
+<img width="1318" height="1714" alt="Untitled (2)" src="https://github.com/user-attachments/assets/9bfac782-4c3b-4e04-a0be-199fa14f1cc0" />
+
+
