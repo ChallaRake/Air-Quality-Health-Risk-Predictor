@@ -48,10 +48,12 @@ The project pipeline includes **data preprocessing, exploratory data analysis (E
 ## 📂 Repository Structure
 
 Air_Quality_Health_Risk_Predictor/\
-│── india_air_quality_data.csv.gz # Dataset (CSV files)\
+│── india_air_quality_data.csv.gz/ # Dataset (CSV files)\
 │── notebooks/ # Jupyter notebooks (EDA & Model building)\
-│── models/ # Saved model (air_quality_model.pkl)\
-│── Air-Quality-Health-Risk-Predictor_PPT_Main (PPT File)\
-│── app/ # Streamlit/Flask app (optional)\
+|   └── AQI API scrape.ipynb
+|   └── ML AIR QUALITY.ipynb
+│── air_quality_model.zip/ # Saved model (air_quality_model.pkl)\
+│── Air-Quality-Health-Risk-Predictor_PPT_Main/ (PPT File)\
+│── app.py/ # Streamlit/Flask app (optional)\
 │── README.md # Project description & usage\
 │── requirements.txt # Dependencies\
