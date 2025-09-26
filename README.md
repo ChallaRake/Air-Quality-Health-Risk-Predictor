@@ -51,7 +51,7 @@ Air_Quality_Health_Risk_Predictor/\
 │── data/ # Dataset (CSV files)\
 │── notebooks/ # Jupyter notebooks (EDA & Model building)\
 │── models/ # Saved model (air_quality_model.pkl)\
-│── Air-Quality-Health-Risk-Predictor_PPT_Main (PPT File)
+│── Air-Quality-Health-Risk-Predictor_PPT_Main (PPT File)\
 │── app/ # Streamlit/Flask app (optional)\
 │── README.md # Project description & usage\
 │── requirements.txt # Dependencies\
