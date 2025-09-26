@@ -41,7 +41,22 @@ The project pipeline includes **data preprocessing, exploratory data analysis (E
 ## 📊 Key Insights
 - **PM2.5, PM10, and NO2** are the dominant pollutants impacting AQI levels.  
 - Machine Learning can effectively classify AQI and support **public health awareness**.  
-- The approach demonstrates how **data-driven insights** can help in **environmental monitoring and policy-making**.  
+- The approach demonstrates how **data-driven insights** can help in **environmental monitoring and policy-making**. 
+
+---
+
+## 🛠️ Technologies Used
+- **Python** 🐍
+- **Pandas, NumPy, Matplotlib, Seaborn** (EDA & Visualization)
+- **Scikit-learn** (Machine Learning Model)
+- **Joblib** (Model Serialization)
+- **Jupyter Notebook**
+
+
+##📌 Future Enhancements
+- Build a **Streamlit Web App** for interactive **AQI** prediction
+- Expand dataset with **real-time** air quality **APIs**
+- Integrate **health risk level warnings** for sensitive groups
 
 ---
 
@@ -57,3 +72,11 @@ Air_Quality_Health_Risk_Predictor/\
 │── app.py/ # Streamlit/Flask app (optional)\
 │── README.md # Project description & usage\
 │── requirements.txt # Dependencies\
+
+<img width="1919" height="1096" alt="Screenshot 2025-09-26 100101" src="https://github.com/user-attachments/assets/962b7175-b597-40af-b2a0-9dbcfe3ce0ca" />
+
+<img width="1919" height="1096" alt="Screenshot 2025-09-26 100119" src="https://github.com/user-attachments/assets/47acf48c-def7-4360-b581-0a7b5baa1c99" />
+
+<img width="1919" height="1095" alt="Screenshot 2025-09-26 100138" src="https://github.com/user-attachments/assets/586531c7-1d26-4c79-95ea-3473946d862e" />
+
+<img width="1919" height="1098" alt="Screenshot 2025-09-26 100202" src="https://github.com/user-attachments/assets/fdbeed7c-2a9e-497f-939e-0472dfd5bea0" />
